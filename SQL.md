@@ -1,6 +1,6 @@
 # Daily SQL Challenge
 
-## Day - 1 : 28-12-2024
+## Day - 1 : 18-01-2025
 
 ### Questions : 
 1. Create a Table
@@ -18,3 +18,12 @@
 7. Sorted employee records by salary in descending order. Update and Delete
 
 8. Updated salary information for a specific employee. Deleted a record based on department.
+
+## Day - 2 : 26-01-2025
+
+### Questions : 
+1. Filtering with AND/OR. Retrieved all employees whose salary is greater than 800000, AND who belong to the HR or BackEnd department.
+
+2. Aggregate Function with GROUP BY and HAVING. Calculated the total salary for each department. Included only departments where the total salary exceeds 2000000.
+
+3. Nested Query. Found the names of employees whose salary is greater than the average salary of all employees in the table.
