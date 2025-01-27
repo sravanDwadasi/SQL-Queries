@@ -27,3 +27,15 @@
 2. Aggregate Function with GROUP BY and HAVING. Calculated the total salary for each department. Included only departments where the total salary exceeds 2000000.
 
 3. Nested Query. Found the names of employees whose salary is greater than the average salary of all employees in the table.
+
+## Day - 3 : 27-01-2025
+
+### Questions : 
+
+1. Filtering with IN and NOT IN. Retrieved employees from specified departments while excluding Sales.
+Aggregate Function with COUNT.
+
+2. Counted employees in each department and sorted the results in descending order of count.
+Subquery with MIN.
+
+3. Found the employee(s) with the lowest salary in the table.
